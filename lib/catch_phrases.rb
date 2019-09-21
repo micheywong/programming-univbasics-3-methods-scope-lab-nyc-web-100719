@@ -13,3 +13,5 @@ def link
   puts popular_phrase
 end
 
+def any_phrase
+  
