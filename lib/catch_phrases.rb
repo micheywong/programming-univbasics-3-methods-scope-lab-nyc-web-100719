@@ -15,5 +15,5 @@ end
 
 def any_phrase
   catch_phrase = "Do A Barrel Roll!"
-  puts catch_phrase
+  return catch_phrase
 end
